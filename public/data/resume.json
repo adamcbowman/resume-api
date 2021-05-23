@@ -1,0 +1,92 @@
+{
+    "meta": {
+      "theme": "elegant"
+    },
+    "basics": {
+      "name": "Adam Bowman",
+      "label": "Supply Chain Security Consultant/Web Developer",
+      "image": "https://www.crossroadsfd.com/uploads/4/5/7/3/45738853/crfd-portraits-3-1x1_orig.jpg",
+      "summary": "InfoSec Professional by day, web developer when I get the chance to play. ",
+      "website": "https://adambowman.tech",
+      "email": "adamcbowman@gmail.com",
+      "location": {
+        "city": "Charlottetown",
+        "countryCode": "CA"
+      },
+      "profiles": [
+        {
+          "url": "https://github.com/adamcbowman",
+          "username": "adamcbowman",
+          "network": "github"
+        }
+      ]
+    },
+    "education": [
+      {
+        "endDate": "2002-09-01",
+        "startDate": "2005-05-01",
+        "area": "Music Technology (incomplete)",
+        "studyType": "Bachelors",
+        "institution": "McGill University"
+      }
+    ],
+    "references": [
+      {
+        "reference": "Contact for references. ",
+        "name": "Adam"
+      }
+    ],
+    "skills": [
+      {
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "React"
+        ],
+        "level": "Intermediate",
+        "name": "Frontend"
+      },
+      {
+        "keywords": ["Node"],
+        "level": "Intermediate",
+        "name": "Backend"
+      },
+      {
+        "keywords": ["Supply Chain", "InfoSec"],
+        "level": "Intermediate",
+        "name": "Security"
+      }
+    ],
+    "awards": [
+      {
+        "title": "sAfe Agile",
+        "awarder": "Scaled Agile"
+      }
+    ],
+    "work": [
+      {
+        "summary": "Founded in 1976, CGI is among the largest IT and business consulting services firms in the world.",
+        "website": "https://cgi.com/",
+        "company": "CGI",
+        "location": "Stratford",
+        "position": "IT Consultant",
+        "startDate": "2019-05-05",
+        "highlights": ["InfoSec", "Supply Chain Security", "Jira", "ServiceNow"]
+      }
+    ],
+    "interests": [
+      {
+        "name": "Cycling"
+      },
+      {
+        "name": "Music"
+      },
+      {
+        "name": "Sailing"
+      },
+      {
+        "name": "Skiing"
+      }
+    ]
+  }  
