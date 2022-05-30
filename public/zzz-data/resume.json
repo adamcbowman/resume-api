@@ -28,12 +28,19 @@
       "area": "Music Technology (incomplete)",
       "studyType": "Bachelors",
       "institution": "McGill University"
+    },
+    {
+      "endDate": "2007-07-01",
+      "startDate": "2006-09-01",
+      "area": "Electromechanical Technology (incomplete)",
+      "studyType": "Certificate",
+      "institution": "Holland College"
     }
   ],
   "references": [
     {
       "reference": "Contact for references. ",
-      "name": "Adam"
+      "name": ""
     }
   ],
   "skills": [
@@ -70,14 +77,25 @@
   "awards": [
     {
       "title": "sAfe Agile",
-      "awarder": "Scaled Agile"
+      "awarder": "Scaled Agile",
+      "date": "2020-04-01"
+    }, 
+    {
+      "title": "Responsive Web Design",
+      "awarder": "freeCodeCamp",
+      "date": "2022-01-22"
+    },
+    {
+      "title": "JavaScript Algorithms and Data Structures",
+      "awarder": "freeCodeCamp",
+      "date": "2022-04-20"
     }
   ],
   "work": [
     {
       "website": "acbconsulting.tech",
       "summary": "Freelance web dev for small businesses. Specializing in React/Gatsby, and Shopify app/theme customizations.",
-      "position": "Web Developer",
+      "position": "Freelance Web Developer",
       "startDate": "2022-01-01",
       "location": "Stratford",
       "company": "Acb Consulting",
@@ -92,7 +110,7 @@
       "website": "https://cgi.com/",
       "company": "CGI",
       "location": "Stratford",
-      "position": "IT Consultant",
+      "position": "CGI Inc - IT Consultant",
       "startDate": "2019-05-05",
       "highlights": [
         "InfoSec",
@@ -102,6 +120,35 @@
         "ProcessUnity"
       ]
     }
+  ],
+  "volunteer": [
+    
+      {
+        "organization": "Cross Roads Fire Dept",
+        "position": "Volunteer Fire Fighter/IT Admin",
+        "url": "https://crossroadsfd.com/",
+        "startDate": "2015-10-01",
+        "endDate": "2022-01-01",
+        "summary": "Trained as a Level2 firefighter. Served the community responding to emergency calls. Also supported the departments adoption of MS Office online, and contributed to the department website. ",
+        "highlights": [
+          "Level 1/Level 2 Firefighter Certifications",
+          "Advanced First Aid",
+          "Auto Extrication"
+        ]
+      }, 
+      {
+        "organization": "Canadian Ski Patrol",
+        "position": "Volunteer Ski Patrol/IT Admin",
+        "url": "https://skipatrol.ca/",
+        "startDate": "2012-09-01",
+        "endDate": "2022-01-01",
+        "summary": "Trained in advanced first aid. Provided safety services to Brookvale ski park. Also supported development of regional web sites. ",
+        "highlights": [
+          "Advanced First Aid",
+          "Advanced Skier", 
+          "Safety Awareness Training"
+        ]
+      }
   ],
   "interests": [
     {
