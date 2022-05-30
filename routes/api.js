@@ -21,4 +21,18 @@ router.get("/", function (req, res, next) {
   });
 });
 
+router.get("/skills", function (req, res, next) {
+  const resume = getResume();
+  resume.then((data) => {
+    res.json(data.skills);
+  });
+});
+
+router.get("/basics", function (req, res, next) {
+  const resume = getResume();
+  resume.then((data) => {
+    res.json(data.basics);
+  });
+});
+
 module.exports = router;
